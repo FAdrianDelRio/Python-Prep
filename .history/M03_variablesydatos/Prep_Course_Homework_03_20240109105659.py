@@ -7,7 +7,7 @@
 
 # In[7]:
 n = 12 
-print(n)
+print
 
 
 
